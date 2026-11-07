@@ -1,4 +1,4 @@
-# Core Software Development Principles for Scalable Projects
+# Agent Rules for Creating Durable Projects
 
 1. **Start Simple, Plan for Complexity:** Begin with a cohesive implementation that solves the core problem before introducing distributed architecture.
 2. **Design Clean Boundaries:** Establish clear interfaces between components from day one, even when implemented together.
