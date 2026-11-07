@@ -13,4 +13,4 @@
 11. **Progressive Enhancement:** Build systems that deliver basic functionality first, then enhance as resources allow.
 12. **Embrace Feedback Loops:** Create mechanisms to quickly incorporate user feedback into development priorities.
 
-> These principles focus on pragmatic implementation while maintaining a clear path to future scalability based on actual needs rather than anticipated complexity.
+These principles focus on pragmatic implementation while maintaining a clear path to future scalability based on actual needs rather than anticipated complexity.
